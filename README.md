@@ -1,7 +1,7 @@
 # Week 7: Secure Authentication System
 
-**Student Name:** [Muhammad Huzaifa]
-**Student ID:** [M01039517]
+**Student Name:** [Muhammad Mubashir]
+**Student ID:** [M01042398]
 **Course:** CST1510
 
 ## Project Description
